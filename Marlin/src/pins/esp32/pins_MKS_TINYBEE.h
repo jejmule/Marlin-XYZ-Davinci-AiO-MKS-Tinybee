@@ -52,6 +52,7 @@
 #define Y_STOP_PIN                            32
 #define Z_STOP_PIN                            22
 //#define FIL_RUNOUT_PIN                      35
+#define Z_MIN_PROBE_PIN                       35    //jejmule use filament runout sensor for  Z_MIN_PROBE_PIN
 
 //
 // Enable I2S stepper stream
